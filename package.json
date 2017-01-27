@@ -1,10 +1,10 @@
-{ "name" : "oauth"
+{ "name" : "@joewitt99/oauth"
 , "description" : "Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers."
 , "version" : "0.9.14"
 , "directories" : { "lib" : "./lib" }
 , "main" : "index.js"
 , "author" : "Ciaran Jessup <ciaranj@gmail.com>"
-, "repository" : { "type":"git", "url":"http://github.com/ciaranj/node-oauth.git" }
+, "repository" : { "type":"git", "url":"http://github.com/joewitt99/node-oauth.git" }
 , "devDependencies": {
     "vows": "0.5.x"
   }
@@ -13,7 +13,7 @@
   }
 , "licenses" :
   [ { "type" : "MIT"
-    , "url" : "http://github.com/ciaranj/node-oauth/raw/master/LICENSE"
+    , "url" : "http://github.com/joewitt99/node-oauth/raw/master/LICENSE"
     }
   ]
 }
